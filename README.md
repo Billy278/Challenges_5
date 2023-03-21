@@ -2,4 +2,4 @@
 
 SOAL
 
-[challenges 5](./foto.png)
+![challenges 5](./foto.png)
